@@ -106,7 +106,7 @@ p{
     text-align: center;
   }
 }
-#cta{
+.cta{
   text-align: center;
   background-color: #ff4c68;
   color: #fff;
@@ -118,7 +118,7 @@ padding: 7% ;
   margin-top: 50px;
 
 }
-#footer{
+.footer{
   text-align: center;
 padding: 30px ;
 margin-bottom: 30%;
